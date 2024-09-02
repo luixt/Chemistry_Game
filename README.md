@@ -33,6 +33,6 @@ Gif created with ScreenToGif.
 
 ## Achievements
 
-### Educational Impact
+### Educational Impact:
 - Created an interactive game that effectively aids students in memorizing the first 88 elements of the periodic table, improving their retention of atomic numbers and symbols.
 - Designed engaging gameplay mechanics that motivate students to repeatedly test their knowledge, reinforcing learning through active recall and repetition.
